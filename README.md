@@ -1,2 +1,2 @@
 # Data-Science-Bootcamp
-Tasks required during the 16-week long Data Science Bootcamp
+Part of the tasks that were required during the 16-week long course
